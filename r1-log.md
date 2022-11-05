@@ -9,3 +9,6 @@ Did a simple band name generator. [https://github.com/masonk16/100_days_of_code_
 
 ### R1D2
 A simple Tip Calculator. [https://github.com/masonk16/100_days_of_code_projects/tree/main/tip_calculator]
+
+### R1D3 
+A simple treasure finding game. [https://github.com/masonk16/100_days_of_code_projects/tree/main/treasure_island]
