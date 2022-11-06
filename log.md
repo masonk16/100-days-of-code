@@ -23,3 +23,11 @@
 **Thoughts:** Had fun doing the logicals once I started it just felt really good.
 
 **Link to work:** [Treasure Island](https://github.com/masonk16/100_days_of_code_projects/tree/main/treasure_island)
+
+### Day 4: November 6, 2022 
+
+**Today's Progress**: Looked at integrating Python and React and API integrations.
+
+**Thoughts:** Definitely a fun build today, got to see where I went wrong on a previous project that had a similar stack.
+
+**Link to work:** [Video Calling App](https://github.com/masonk16/video_calling_app)
