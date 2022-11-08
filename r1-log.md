@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Mason Mapfundematsva
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [November 3rd, Thursday, 2022].
 
 ## Log
 
