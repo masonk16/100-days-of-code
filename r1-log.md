@@ -15,3 +15,6 @@ A simple treasure finding game. [https://github.com/masonk16/100_days_of_code_pr
 
 ### R1D4
 Video calling App. [https://github.com/masonk16/video_calling_app]
+
+### R1D5
+Rock Paper Scissors. [https://github.com/masonk16/100_days_of_code_projects/tree/main/rock_paper_scissors]

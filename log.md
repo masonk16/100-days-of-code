@@ -31,3 +31,11 @@
 **Thoughts:** Definitely a fun build today, got to see where I went wrong on a previous project that had a similar stack.
 
 **Link to work:** [Video Calling App](https://github.com/masonk16/video_calling_app)
+
+### Day 5: November 7, 2022 
+
+**Today's Progress**: Randomization with Python - gave me a bit of insight on some concepts I had been struggling with.
+
+**Thoughts:** Enjoyed debugging the rock paper scissors game, hit the point home about how proper sturcture can really be important.
+
+**Link to work:** [Rock Paper Scissors](https://github.com/masonk16/100_days_of_code_projects/tree/main/rock_paper_scissors)
