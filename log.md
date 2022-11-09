@@ -39,3 +39,11 @@
 **Thoughts:** Enjoyed debugging the rock paper scissors game, hit the point home about how proper sturcture can really be important.
 
 **Link to work:** [Rock Paper Scissors](https://github.com/masonk16/100_days_of_code_projects/tree/main/rock_paper_scissors)
+
+### Day 5: November 9, 2022 
+
+**Today's Progress**: Worked with Python Loops and lists.
+
+**Thoughts:** Got some really good insight into some operations with loops and refreshed on modules as well. Definitely would like to work more on loops.
+
+**Link to work:** [Password Generator](https://github.com/masonk16/100_days_of_code_projects/tree/main/password_generator)
