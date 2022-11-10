@@ -40,10 +40,19 @@
 
 **Link to work:** [Rock Paper Scissors](https://github.com/masonk16/100_days_of_code_projects/tree/main/rock_paper_scissors)
 
-### Day 5: November 9, 2022 
+### Day 6: November 9, 2022 
 
 **Today's Progress**: Worked with Python Loops and lists.
 
 **Thoughts:** Got some really good insight into some operations with loops and refreshed on modules as well. Definitely would like to work more on loops.
 
 **Link to work:** [Password Generator](https://github.com/masonk16/100_days_of_code_projects/tree/main/password_generator)
+
+### Day 7: November 10, 2022 
+
+**Today's Progress**: Continued working with loops and if functions.
+
+**Thoughts:** Combining different types of looping mechanisms was really interesting. Reebord's World really helped with visualising my code.
+
+**Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
+)
