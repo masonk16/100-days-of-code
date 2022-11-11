@@ -23,5 +23,7 @@ Rock Paper Scissors. [https://github.com/masonk16/100_days_of_code_projects/tree
 Password Generator.. [https://github.com/masonk16/100_days_of_code_projects/tree/main/password_generator]
 
 ### R1D7 
-Reeborg's World. [https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
-]
+Reeborg's World. [https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json]
+
+### R1D8
+Hangman. [https://github.com/masonk16/100_days_of_code_projects/tree/main/hangman]

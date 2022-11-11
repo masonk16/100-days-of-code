@@ -54,5 +54,12 @@
 
 **Thoughts:** Combining different types of looping mechanisms was really interesting. Reebord's World really helped with visualising my code.
 
-**Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
-)
+**Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)
+
+### Day 8: November 11, 2022 
+
+**Today's Progress**: More python loops, if functions and working with lists.
+
+**Thoughts:** Was really challenging getting the flow of the hangman game right
+
+**Link to work:** [Hangman](https://github.com/masonk16/100_days_of_code_projects/tree/main/hangman)
