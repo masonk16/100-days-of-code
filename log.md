@@ -63,3 +63,11 @@
 **Thoughts:** Was really challenging getting the flow of the hangman game right
 
 **Link to work:** [Hangman](https://github.com/masonk16/100_days_of_code_projects/tree/main/hangman)
+
+### Day 9: November 13, 2022 
+
+**Today's Progress**: Worked on functions with inputs.
+
+**Thoughts:** Had a fairly good time figuring out how to combine different concepts to build the caesar cipher. Debugging was a nice challenge as well. Though I need to work more with lists.
+
+**Link to work:** [Caesar Cipher](https://github.com/masonk16/100_days_of_code_projects/tree/main/caesar_cipher)

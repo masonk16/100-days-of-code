@@ -27,3 +27,6 @@ Reeborg's World. [https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=world
 
 ### R1D8
 Hangman. [https://github.com/masonk16/100_days_of_code_projects/tree/main/hangman]
+
+### R1D9
+Caesar Cipher. [https://github.com/masonk16/100_days_of_code_projects/tree/main/caesar_cipher]
