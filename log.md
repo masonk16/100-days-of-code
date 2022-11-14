@@ -71,3 +71,11 @@
 **Thoughts:** Had a fairly good time figuring out how to combine different concepts to build the caesar cipher. Debugging was a nice challenge as well. Though I need to work more with lists.
 
 **Link to work:** [Caesar Cipher](https://github.com/masonk16/100_days_of_code_projects/tree/main/caesar_cipher)
+
+### Day 10: November 14, 2022 
+
+**Today's Progress**: Revisited Dictionaries and nesting.
+
+**Thoughts:** quite the challenge working with nesting, definitely something I need to revisit.
+
+**Link to work:** [Silent Auction](https://github.com/masonk16/100_days_of_code_projects/tree/main/silent_auction)

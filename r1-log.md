@@ -30,3 +30,6 @@ Hangman. [https://github.com/masonk16/100_days_of_code_projects/tree/main/hangma
 
 ### R1D9
 Caesar Cipher. [https://github.com/masonk16/100_days_of_code_projects/tree/main/caesar_cipher]
+
+### R1D10
+Silent Auction. [https://github.com/masonk16/100_days_of_code_projects/tree/main/silent_auction]
