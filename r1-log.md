@@ -33,3 +33,6 @@ Caesar Cipher. [https://github.com/masonk16/100_days_of_code_projects/tree/main/
 
 ### R1D10
 Silent Auction. [https://github.com/masonk16/100_days_of_code_projects/tree/main/silent_auction]
+
+### R1D11
+Calculator. [https://github.com/masonk16/100_days_of_code_projects/tree/main/calculator]

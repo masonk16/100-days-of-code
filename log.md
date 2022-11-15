@@ -79,3 +79,11 @@
 **Thoughts:** quite the challenge working with nesting, definitely something I need to revisit.
 
 **Link to work:** [Silent Auction](https://github.com/masonk16/100_days_of_code_projects/tree/main/silent_auction)
+
+### Day 11: November 15, 2022 
+
+**Today's Progress**: Functions with Outputs.
+
+**Thoughts:** The recursive functions were a bit hard but I managed to understand.
+
+**Link to work:** [Calculator](https://github.com/masonk16/100_days_of_code_projects/tree/main/calculator)
