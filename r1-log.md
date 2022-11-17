@@ -36,3 +36,6 @@ Silent Auction. [https://github.com/masonk16/100_days_of_code_projects/tree/main
 
 ### R1D11
 Calculator. [https://github.com/masonk16/100_days_of_code_projects/tree/main/calculator]
+
+### R1D12
+Blackjack Game. [https://github.com/masonk16/100_days_of_code_projects/tree/main/blackjack]

@@ -87,3 +87,11 @@
 **Thoughts:** The recursive functions were a bit hard but I managed to understand.
 
 **Link to work:** [Calculator](https://github.com/masonk16/100_days_of_code_projects/tree/main/calculator)
+
+### Day 12: November 16, 2022 
+
+**Today's Progress**: Revisited all concepts learntso far .
+
+**Thoughts:** Still need to work a bit more with recursive functions.
+
+**Link to work:** [Blackjack](https://github.com/masonk16/100_days_of_code_projects/tree/main/blackjack)
