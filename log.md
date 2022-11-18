@@ -95,3 +95,11 @@
 **Thoughts:** Still need to work a bit more with recursive functions.
 
 **Link to work:** [Blackjack](https://github.com/masonk16/100_days_of_code_projects/tree/main/blackjack)
+
+### Day 13: November 18, 2022 
+
+**Today's Progress**: Namespaces in Python - Local vs. Global Scope.
+
+**Thoughts:** Definitely worth a revisit, to my skills in implementing the DRY principle.
+
+**Link to work:** [Guess The Number](https://github.com/masonk16/100_days_of_code_projects/tree/main/guess-the-number)

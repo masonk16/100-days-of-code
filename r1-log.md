@@ -39,3 +39,6 @@ Calculator. [https://github.com/masonk16/100_days_of_code_projects/tree/main/cal
 
 ### R1D12
 Blackjack Game. [https://github.com/masonk16/100_days_of_code_projects/tree/main/blackjack]
+
+### R1D13
+Guess the Number. [https://github.com/masonk16/100_days_of_code_projects/tree/main/guess-the-number]
