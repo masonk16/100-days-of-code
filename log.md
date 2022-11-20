@@ -103,3 +103,18 @@
 **Thoughts:** Definitely worth a revisit, to my skills in implementing the DRY principle.
 
 **Link to work:** [Guess The Number](https://github.com/masonk16/100_days_of_code_projects/tree/main/guess-the-number)
+
+### Day 14: November 19, 2022 
+
+**Today's Progress**: Debugging.
+
+**Thoughts:** Learnt some crucial debuuging skills and how to create a workflow specifically for that.
+
+
+### Day 15: November 20, 2022 
+
+**Today's Progress**: Recapping on all concepts learnt so far.
+
+**Thoughts:** Would want to redo something similar to test my problem solving skills.
+
+**Link to work:** [Higher-lower](https://github.com/masonk16/100_days_of_code_projects/tree/main/higher-lower)
