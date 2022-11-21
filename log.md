@@ -118,3 +118,11 @@
 **Thoughts:** Would want to redo something similar to test my problem solving skills.
 
 **Link to work:** [Higher-lower](https://github.com/masonk16/100_days_of_code_projects/tree/main/higher-lower)
+
+### Day 16: November 21, 2022 
+
+**Today's Progress**: Learnt how to leverage my IDE even more while creating a virtual coffe machine.
+
+**Thoughts:** Definitely a project I want to revisit and try a different approach to it.
+
+**Link to work:** [Coffee Machine](https://github.com/masonk16/100_days_of_code_projects/tree/main/coffee_machine)
