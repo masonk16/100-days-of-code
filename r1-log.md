@@ -48,3 +48,6 @@ Higher-lower. [https://github.com/masonk16/100_days_of_code_projects/tree/main/h
 
 ### R1D16
 Coffee Machine [https://github.com/masonk16/100_days_of_code_projects/tree/main/coffee_machine]
+
+### R1D17
+OOP Coffe Machine [https://github.com/masonk16/100_days_of_code_projects/tree/main/day-16]

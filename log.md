@@ -126,3 +126,11 @@
 **Thoughts:** Definitely a project I want to revisit and try a different approach to it.
 
 **Link to work:** [Coffee Machine](https://github.com/masonk16/100_days_of_code_projects/tree/main/coffee_machine)
+
+### Day 17: November 22, 2022 
+
+**Today's Progress**: Revisited basics of OOP and created an OOP version of the coffe machine project.
+
+**Thoughts:** I would love to get deeper into OOP concepts going forward, I really want to get a handle on them.
+
+**Link to work:** [OOP Coffee Machine](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-16)
