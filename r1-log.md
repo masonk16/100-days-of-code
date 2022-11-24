@@ -51,3 +51,6 @@ Coffee Machine [https://github.com/masonk16/100_days_of_code_projects/tree/main/
 
 ### R1D17
 OOP Coffe Machine [https://github.com/masonk16/100_days_of_code_projects/tree/main/day-16]
+
+### R1D18
+Quiz Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/Day%2018/quiz_game]

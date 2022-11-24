@@ -134,3 +134,11 @@
 **Thoughts:** I would love to get deeper into OOP concepts going forward, I really want to get a handle on them.
 
 **Link to work:** [OOP Coffee Machine](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-16)
+
+### Day 18: November 24, 2022 
+
+**Today's Progress**: Got deeper into OOP and creating cclasses with Python.
+
+**Thoughts:** Had a few moments where I was a bit lost but overall learnt a lot from today's session. Modularity is something I want to revisit, probably in another language.
+
+**Link to work:** [Quiz Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/Day%2018/quiz_game)
