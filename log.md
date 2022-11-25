@@ -142,3 +142,11 @@
 **Thoughts:** Had a few moments where I was a bit lost but overall learnt a lot from today's session. Modularity is something I want to revisit, probably in another language.
 
 **Link to work:** [Quiz Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/Day%2018/quiz_game)
+
+### Day 19: November 25, 2022 
+
+**Today's Progress**: Revisited tuples and Imports by creating a painting using the turtle module.
+
+**Thoughts:** Need to understand more about mutable and immutable data structures.
+
+**Link to work:** [Hirst Painting](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-19/hirst-painting)
