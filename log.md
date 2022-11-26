@@ -150,3 +150,11 @@
 **Thoughts:** Need to understand more about mutable and immutable data structures.
 
 **Link to work:** [Hirst Painting](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-19/hirst-painting)
+
+### Day 20: November 26, 2022 
+
+**Today's Progress**: Looked into multiple object instantiation, event listeners and statein Python.
+
+**Thoughts:** There is need to revisit object instantiation in different contexts.
+
+**Link to work:** [Etch-a-Sketch & Turtle Race](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-20/start)
