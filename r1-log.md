@@ -60,3 +60,6 @@ Hirst Painting [https://github.com/masonk16/100_days_of_code_projects/tree/main/
 
 ### R1D20
 Etch-a-Sketch & Turtle Race [https://github.com/masonk16/100_days_of_code_projects/tree/main/day-20/start]
+
+### R1D21
+Snake Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/snake_game]
