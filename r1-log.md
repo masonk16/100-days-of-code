@@ -63,3 +63,6 @@ Etch-a-Sketch & Turtle Race [https://github.com/masonk16/100_days_of_code_projec
 
 ### R1D21
 Snake Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/snake_game]
+
+### R1D22
+Snake Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/snake_game]

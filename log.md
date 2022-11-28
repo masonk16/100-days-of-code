@@ -166,3 +166,11 @@
 **Thoughts:** I need to read up on OOP concepts to get a deeper understanding.
 
 **Link to work:** [Snake Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/snake_game)
+
+### Day 22: November 28, 2022 
+
+**Today's Progress**: Class inheritance and slicing.
+
+**Thoughts:** Had some fun with this one, a very enjoyable experience that made me think outisde the  box.
+
+**Link to work:** [Snake Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/snake_game)
