@@ -66,3 +66,6 @@ Snake Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/snak
 
 ### R1D22
 Snake Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/snake_game]
+
+### R1D23
+The Pong Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/the%20_pong_game]

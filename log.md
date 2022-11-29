@@ -174,3 +174,11 @@
 **Thoughts:** Had some fun with this one, a very enjoyable experience that made me think outisde the  box.
 
 **Link to work:** [Snake Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/snake_game)
+
+### Day 23: November 29, 2022 
+
+**Today's Progress**: Built the pong game using OOP concepts.
+
+**Thoughts:** Exciting to build different things with these concepts, would definitely want to extend into personal projects.
+
+**Link to work:** [The Pong Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/the%20_pong_game)
