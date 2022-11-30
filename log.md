@@ -182,3 +182,11 @@
 **Thoughts:** Exciting to build different things with these concepts, would definitely want to extend into personal projects.
 
 **Link to work:** [The Pong Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/the%20_pong_game)
+
+### Day 24: November 30, 2022 
+
+**Today's Progress**: Built turtle crossing game using Turtle module.
+
+**Thoughts:** Felt a bit lazy today so playing around with turtle was ideal practice. Need to get in more work on these OOP concepts.
+
+**Link to work:** [Turtle Crossing Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/turtle_crossing_game)

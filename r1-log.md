@@ -69,3 +69,6 @@ Snake Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/snak
 
 ### R1D23
 The Pong Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/the%20_pong_game]
+
+### R1D24
+Turtle Crossing Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/turtle_crossing_game]
