@@ -190,3 +190,11 @@
 **Thoughts:** Felt a bit lazy today so playing around with turtle was ideal practice. Need to get in more work on these OOP concepts.
 
 **Link to work:** [Turtle Crossing Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/turtle_crossing_game)
+
+### Day 25: December 01, 2022 
+
+**Today's Progress**: Working with local files and directories.
+
+**Thoughts:** A really exciting project today, workign with files helped me understabd a few things better.
+
+**Link to work:** [Mail Merge](https://github.com/masonk16/100_days_of_code_projects/tree/main/mail-merge)

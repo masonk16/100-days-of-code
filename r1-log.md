@@ -72,3 +72,6 @@ The Pong Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/t
 
 ### R1D24
 Turtle Crossing Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/turtle_crossing_game]
+
+### R1D25
+Mail Merge [https://github.com/masonk16/100_days_of_code_projects/tree/main/mail-merge]
