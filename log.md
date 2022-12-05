@@ -198,3 +198,11 @@
 **Thoughts:** A really exciting project today, workign with files helped me understabd a few things better.
 
 **Link to work:** [Mail Merge](https://github.com/masonk16/100_days_of_code_projects/tree/main/mail-merge)
+
+### Day 26: December 05, 2022 
+
+**Today's Progress**: Working with CSV files and analyzing data with Pandas.
+
+**Thoughts:** Pandas is a really powerful tool, could've used it for the coding challenge. Will go back to the coding challenge and improve it.
+
+**Link to work:** [U.S. States Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-26/us_states_game)
