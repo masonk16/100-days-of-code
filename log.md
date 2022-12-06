@@ -206,3 +206,12 @@
 **Thoughts:** Pandas is a really powerful tool, could've used it for the coding challenge. Will go back to the coding challenge and improve it.
 
 **Link to work:** [U.S. States Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-26/us_states_game)
+
+
+### Day 27: December 06, 2022 
+
+**Today's Progress**: Did more work with Pandas and got into list and dictionary comprehension.
+
+**Thoughts:** The comprehensions really simplified a lot. It was quite satisfying knocking off a few lines of code from yesterdays project.
+
+**Link to work:** [U.S. States Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-26/us_states_game)

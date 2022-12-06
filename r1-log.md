@@ -78,3 +78,6 @@ Mail Merge [https://github.com/masonk16/100_days_of_code_projects/tree/main/mail
 
 ### R1D26
 U.S. States Game [https://github.com/masonk16/100_days_of_code_projects/tree/main/day-26/us_states_game]
+
+### R1D27 
+NATO Phonetic Alphabet [https://github.com/masonk16/100_days_of_code_projects/tree/main/nato_alphabet] 
