@@ -215,3 +215,11 @@
 **Thoughts:** The comprehensions really simplified a lot. It was quite satisfying knocking off a few lines of code from yesterdays project.
 
 **Link to work:** [U.S. States Game](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-26/us_states_game)
+
+### Day 28: December 07, 2022 
+
+**Today's Progress**: Introduction to the tkinter GUI.
+
+**Thoughts:** Reminded me of C++ back in school, quite fun but seemingly tedious to get things.
+
+**Link to work:** [Converter](https://github.com/masonk16/100_days_of_code_projects/blob/main/day-28/converter.py)

@@ -81,3 +81,6 @@ U.S. States Game [https://github.com/masonk16/100_days_of_code_projects/tree/mai
 
 ### R1D27 
 NATO Phonetic Alphabet [https://github.com/masonk16/100_days_of_code_projects/tree/main/nato_alphabet] 
+
+### R1D28
+Converter [https://github.com/masonk16/100_days_of_code_projects/blob/main/day-28/converter.py]
