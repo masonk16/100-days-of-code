@@ -223,3 +223,11 @@
 **Thoughts:** Reminded me of C++ back in school, quite fun but seemingly tedious to get things.
 
 **Link to work:** [Converter](https://github.com/masonk16/100_days_of_code_projects/blob/main/day-28/converter.py)
+
+### Day 29: December 08, 2022
+
+**Today's Progress:** Using tkinter to create a pomodoro timer.
+
+**Thoughts:** Quite an exciting project, might look more into GUI's at a later stage.
+
+**Link to work:** [Pomoodoro Timer](https://github.com/masonk16/100_days_of_code_projects/tree/main/pomodoro)

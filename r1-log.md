@@ -84,3 +84,6 @@ NATO Phonetic Alphabet [https://github.com/masonk16/100_days_of_code_projects/tr
 
 ### R1D28
 Converter [https://github.com/masonk16/100_days_of_code_projects/blob/main/day-28/converter.py]
+
+### R1D29
+Pomodoro Timer [https://github.com/masonk16/100_days_of_code_projects/tree/main/pomodoro]
