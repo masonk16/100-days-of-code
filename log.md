@@ -231,3 +231,11 @@
 **Thoughts:** Quite an exciting project, might look more into GUI's at a later stage.
 
 **Link to work:** [Pomoodoro Timer](https://github.com/masonk16/100_days_of_code_projects/tree/main/pomodoro)
+
+### Day 30: December 09, 2022
+
+**Today's Progress:** Created a password manager using tkinter and incorporated the old passsword generator project.
+
+**Thoughts:** Felt good to reuse code I've written before and optimize it.
+
+**Link to work:** [Password Manager](https://github.com/masonk16/100_days_of_code_projects/tree/main/password-manager)

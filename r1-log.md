@@ -87,3 +87,6 @@ Converter [https://github.com/masonk16/100_days_of_code_projects/blob/main/day-2
 
 ### R1D29
 Pomodoro Timer [https://github.com/masonk16/100_days_of_code_projects/tree/main/pomodoro]
+
+### R1D30 
+Password Manager [https://github.com/masonk16/100_days_of_code_projects/tree/main/password-manager]
