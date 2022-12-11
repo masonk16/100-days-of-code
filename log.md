@@ -239,3 +239,20 @@
 **Thoughts:** Felt good to reuse code I've written before and optimize it.
 
 **Link to work:** [Password Manager](https://github.com/masonk16/100_days_of_code_projects/tree/main/password-manager)
+
+### Day 31: December 10, 2022
+
+**Today's Progress:** Revisisted previous projects - nato alphabet, password manager to incoroprate error handling.
+
+**Thoughts:** Optimizing and involving error handling ws quite a fun process started working with JSON as well.
+
+**Link to work:** [Password Manager](https://github.com/masonk16/100_days_of_code_projects/tree/main/password-manager)
+
+### Day 32: December 11, 2022
+
+**Today's Progress:** Capstone project creating a flash card app using tkinter.
+
+**Thoughts:** Need more work with error handling and working with JSON.
+
+**Link to work:** [Flash Cards](https://github.com/masonk16/100_days_of_code_projects/tree/main/flash-cards)
+

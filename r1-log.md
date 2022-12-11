@@ -90,3 +90,10 @@ Pomodoro Timer [https://github.com/masonk16/100_days_of_code_projects/tree/main/
 
 ### R1D30 
 Password Manager [https://github.com/masonk16/100_days_of_code_projects/tree/main/password-manager]
+
+### R1D31 
+Password Manager [https://github.com/masonk16/100_days_of_code_projects/tree/main/password-manager]
+
+### R1D32
+Flash Cards [https://github.com/masonk16/100_days_of_code_projects/tree/main/flash-cards]
+
