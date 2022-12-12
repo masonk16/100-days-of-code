@@ -256,3 +256,11 @@
 
 **Link to work:** [Flash Cards](https://github.com/masonk16/100_days_of_code_projects/tree/main/flash-cards)
 
+### Day 33: December 12, 2022
+
+**Today's Progress:** Created an automated birthday wisher and a random quote generator using pandas, the datetime module and smtplib.
+
+**Thoughts:** Need to revisit pandas.
+
+**Link to work:** [Day 33](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-33)
+

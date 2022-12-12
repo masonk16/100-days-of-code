@@ -97,3 +97,6 @@ Password Manager [https://github.com/masonk16/100_days_of_code_projects/tree/mai
 ### R1D32
 Flash Cards [https://github.com/masonk16/100_days_of_code_projects/tree/main/flash-cards]
 
+### R1D33
+Qoutes and Birthday Wishes [https://github.com/masonk16/100_days_of_code_projects/tree/main/day-33]
+
