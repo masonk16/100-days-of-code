@@ -264,3 +264,10 @@
 
 **Link to work:** [Day 33](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-33)
 
+### Day 34: December 13, 2022
+
+**Today's Progress:** Explored working with APIs and displaying responses.
+
+**Thoughts:** Great timing as I venture into the ALX project.
+
+**Link to work:** [ISS Overhead Notification](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-34/iss-overhead)
