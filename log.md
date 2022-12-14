@@ -271,3 +271,11 @@
 **Thoughts:** Great timing as I venture into the ALX project.
 
 **Link to work:** [ISS Overhead Notification](https://github.com/masonk16/100_days_of_code_projects/tree/main/day-34/iss-overhead)
+
+### Day 35: December 14, 2022
+
+**Today's Progress:** Extended the quiz game by creating a UI and using an API to populate the question bank.
+
+**Thoughts:** Really good insight on creating classes.
+
+**Link to work:** [Quizzler App](https://github.com/masonk16/100_days_of_code_projects/tree/main/quizzler_app)

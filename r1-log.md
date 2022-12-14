@@ -102,3 +102,6 @@ Qoutes and Birthday Wishes [https://github.com/masonk16/100_days_of_code_project
 
 ### R1D34
 ISS Overhead Notification [https://github.com/masonk16/100_days_of_code_projects/tree/main/day-34/iss-overhead]
+
+### R1D35 
+Quizzler App [https://github.com/masonk16/100_days_of_code_projects/tree/main/quizzler_app]
