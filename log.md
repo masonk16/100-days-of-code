@@ -279,3 +279,11 @@
 **Thoughts:** Really good insight on creating classes.
 
 **Link to work:** [Quizzler App](https://github.com/masonk16/100_days_of_code_projects/tree/main/quizzler_app)
+
+### Day 36: December 16, 2022
+
+**Today's Progress:** API keys and Environment variables.
+
+**Thoughts:** Got a better understanding of how to handle environment variables.
+
+**Link to work:** [Rain Alert](https://github.com/masonk16/100_days_of_code_projects/tree/main/rain_alert)
