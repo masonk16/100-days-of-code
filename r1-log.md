@@ -108,3 +108,6 @@ Quizzler App [https://github.com/masonk16/100_days_of_code_projects/tree/main/qu
 
 ### R1D36
 Rain Alert [https://github.com/masonk16/100_days_of_code_projects/tree/main/rain_alert]
+
+### R1D37
+Stock News Monitoring [https://github.com/masonk16/100_days_of_code_projects/tree/main/stock-news]

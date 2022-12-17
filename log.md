@@ -287,3 +287,11 @@
 **Thoughts:** Got a better understanding of how to handle environment variables.
 
 **Link to work:** [Rain Alert](https://github.com/masonk16/100_days_of_code_projects/tree/main/rain_alert)
+
+### Day 37: December 17, 2022
+
+**Today's Progress:** working with multiple API keys, API paramenters and Environment variables. Using an SMS service.
+
+**Thoughts:** Greater understanding of how to handle environment variables.
+
+**Link to work:** [Stock News Monitoring](https://github.com/masonk16/100_days_of_code_projects/tree/main/stock-news)
