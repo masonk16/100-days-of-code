@@ -111,3 +111,6 @@ Rain Alert [https://github.com/masonk16/100_days_of_code_projects/tree/main/rain
 
 ### R1D37
 Stock News Monitoring [https://github.com/masonk16/100_days_of_code_projects/tree/main/stock-news]
+
+### R1D38
+Habit Tracker [https://github.com/masonk16/100_days_of_code_projects/tree/main/habit-tracker]

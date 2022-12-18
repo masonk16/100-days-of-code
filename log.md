@@ -295,3 +295,11 @@
 **Thoughts:** Greater understanding of how to handle environment variables.
 
 **Link to work:** [Stock News Monitoring](https://github.com/masonk16/100_days_of_code_projects/tree/main/stock-news)
+
+### Day 38: December 18, 2022
+
+**Today's Progress:** Advanved API authentication and working with different HTTP methods.
+
+**Thoughts:** Handling authentication in a more secure way with the use of Environment variables and headers.
+
+**Link to work:** [Habit Tracker](https://github.com/masonk16/100_days_of_code_projects/tree/main/habit-tracker)
