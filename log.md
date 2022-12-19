@@ -303,3 +303,11 @@
 **Thoughts:** Handling authentication in a more secure way with the use of Environment variables and headers.
 
 **Link to work:** [Habit Tracker](https://github.com/masonk16/100_days_of_code_projects/tree/main/habit-tracker)
+
+### Day 39: December 19, 2022
+
+**Today's Progress:** Using basic authentication and headers with Python.
+
+**Thoughts:** Debugging process was quite interesting.
+
+**Link to work:** [Workout Tracker](https://github.com/masonk16/100_days_of_code_projects/tree/main/workout-tracker)

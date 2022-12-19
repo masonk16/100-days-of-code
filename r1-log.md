@@ -114,3 +114,6 @@ Stock News Monitoring [https://github.com/masonk16/100_days_of_code_projects/tre
 
 ### R1D38
 Habit Tracker [https://github.com/masonk16/100_days_of_code_projects/tree/main/habit-tracker]
+
+### R1D39
+Workout Tracker [https://github.com/masonk16/100_days_of_code_projects/tree/main/workout-tracker]
