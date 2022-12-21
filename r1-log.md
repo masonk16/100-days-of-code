@@ -117,3 +117,9 @@ Habit Tracker [https://github.com/masonk16/100_days_of_code_projects/tree/main/h
 
 ### R1D39
 Workout Tracker [https://github.com/masonk16/100_days_of_code_projects/tree/main/workout-tracker]
+
+### R1D40
+Flight Search [https://github.com/masonk16/100_days_of_code_projects/tree/main/flight-search]
+
+### R1D41
+Flight Search [https://github.com/masonk16/100_days_of_code_projects/tree/main/flight-search]

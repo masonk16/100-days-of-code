@@ -311,3 +311,19 @@
 **Thoughts:** Debugging process was quite interesting.
 
 **Link to work:** [Workout Tracker](https://github.com/masonk16/100_days_of_code_projects/tree/main/workout-tracker)
+
+### Day 40: December 20, 2022
+
+**Today's Progress:** Created a flight deal searching app for the capstone project.
+
+**Thoughts:** Using OOP concepts to handle different aspects of the flight seacrh tool.
+
+**Link to work:** [Flight Search](https://github.com/masonk16/100_days_of_code_projects/tree/main/flight-search)
+
+### Day 41: December 21, 2022
+
+**Today's Progress:** Extended the flight search to include different customers and use email notifications instead of SMS.
+
+**Thoughts:** Had to do a bit of revision on smtplib.
+
+**Link to work:** [Flight Search](https://github.com/masonk16/100_days_of_code_projects/tree/main/flight-search)
