@@ -327,3 +327,11 @@
 **Thoughts:** Had to do a bit of revision on smtplib.
 
 **Link to work:** [Flight Search](https://github.com/masonk16/100_days_of_code_projects/tree/main/flight-search)
+
+### Day 42: December 22, 2022
+
+**Today's Progress:** Revisiting HTML concepts by building a basic portfolio page.
+
+**Thoughts:** Fairly simple but important concepts on documentation.
+
+**Link to work:** [Personal Site](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/HTML%20-%20Personal%20Site)
