@@ -335,3 +335,11 @@
 **Thoughts:** Fairly simple but important concepts on documentation.
 
 **Link to work:** [Personal Site](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/HTML%20-%20Personal%20Site)
+
+### Day 43: January 02, 2023
+
+**Today's Progress:** Revisiting HTML concepts by building a basic portfolio page.
+
+**Thoughts:** Good time exploring the github pages and deploying my portfolio site there will put more work into it.
+
+**Link to work:** [Personal Site](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/HTML%20-%20Personal%20Site)

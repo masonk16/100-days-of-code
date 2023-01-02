@@ -126,3 +126,6 @@ Flight Search [https://github.com/masonk16/100_days_of_code_projects/tree/main/f
 
 ### R1D42
 Personal Site [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/HTML%20-%20Personal%20Site]
+
+### R1D43
+Personal Site [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/HTML%20-%20Personal%20Site]
