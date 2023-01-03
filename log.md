@@ -343,3 +343,11 @@
 **Thoughts:** Good time exploring the github pages and deploying my portfolio site there will put more work into it.
 
 **Link to work:** [Personal Site](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/HTML%20-%20Personal%20Site)
+
+### Day 44: January 03, 2023
+
+**Today's Progress:** Revisiting HTML and CSS concepts by building a basic portfolio page.
+
+**Thoughts:** Adding CSS really made it easy and gave me more insight into what I've been missing.
+
+**Link to work:** [Bacon Fansite](https://github.com/masonk16/100_days_of_code_projects/tree/main/bacon-fansite)
