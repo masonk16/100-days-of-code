@@ -351,3 +351,19 @@
 **Thoughts:** Adding CSS really made it easy and gave me more insight into what I've been missing.
 
 **Link to work:** [Bacon Fansite](https://github.com/masonk16/100_days_of_code_projects/tree/main/bacon-fansite)
+
+### Day 45: January 04, 2023
+
+**Today's Progress:** Went deeper into CSS concepts.
+
+**Thoughts:** Got a better understanding of CSS syntax.
+
+**Link to work:** [CSS My Site](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/CSS%20-%20My%20site)
+
+### Day 46: January 05, 2023
+
+**Today's Progress:** Finalised the portfolio page build using CSS.
+
+**Thoughts:** Absolute and relative positioning need a revisit but it was all smooth sailing.
+
+**Link to work:** [CSS My Site](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/CSS%20-%20My%20site)
