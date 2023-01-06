@@ -138,3 +138,6 @@ CSS My Site [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web
 
 ### R1D46
 CSS My Site [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/CSS%20-%20My%20site]
+
+### R1D47
+100 movies to watch [https://github.com/masonk16/100_days_of_code_projects/tree/main/100%20movies%20to%20watch]

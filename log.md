@@ -367,3 +367,11 @@
 **Thoughts:** Absolute and relative positioning need a revisit but it was all smooth sailing.
 
 **Link to work:** [CSS My Site](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/CSS%20-%20My%20site)
+
+### Day 47: January 06, 2023
+
+**Today's Progress:** Web scraping with Beautiful Soup.
+
+**Thoughts:** Will need to revisit some concepts, getting some data from some the websites was very difficult because of the structure.
+
+**Link to work:** [100 movies to watch](https://github.com/masonk16/100_days_of_code_projects/tree/main/100%20movies%20to%20watch)
