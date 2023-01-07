@@ -141,3 +141,6 @@ CSS My Site [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web
 
 ### R1D47
 100 movies to watch [https://github.com/masonk16/100_days_of_code_projects/tree/main/100%20movies%20to%20watch]
+
+### R1D48
+Music Time Machine [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Musical%20Time%20Machine]
