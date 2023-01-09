@@ -144,3 +144,6 @@ CSS My Site [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web
 
 ### R1D48
 Music Time Machine [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Musical%20Time%20Machine]
+
+### R1D49
+Amazon Price Tracker [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Amazon%20Price%20Tracker]

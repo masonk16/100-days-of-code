@@ -383,3 +383,11 @@
 **Thoughts:** Tapped into some new methods and got a better understanding of how to navigate complicated website structure.
 
 **Link to work:** [Music Time Machine](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Musical%20Time%20Machine)
+
+### Day 49: January 09, 2023
+
+**Today's Progress:** Created an Amazon Price TRacker with BeautifulSoup and smtplib.
+
+**Thoughts:** Pretty straightforward project, definitely want to use BeautifulSoup with more complicated website structures.
+
+**Link to work:** [Amazon Price Tracker](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Amazon%20Price%20Tracker)
