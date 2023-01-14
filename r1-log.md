@@ -147,3 +147,6 @@ Music Time Machine [https://github.com/masonk16/100_days_of_code_projects/tree/m
 
 ### R1D49
 Amazon Price Tracker [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Amazon%20Price%20Tracker]
+
+### R1D50
+Cookie Bot [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Cookie%20Bot]

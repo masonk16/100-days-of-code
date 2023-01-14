@@ -391,3 +391,12 @@
 **Thoughts:** Pretty straightforward project, definitely want to use BeautifulSoup with more complicated website structures.
 
 **Link to work:** [Amazon Price Tracker](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Amazon%20Price%20Tracker)
+
+### Day 50: January 14, 2023
+
+**Today's Progress:** Created Cookie Bot for the cookie clicker game using Selenium.
+
+**Thoughts:** Definitely want to see how I can automate testing websites using it.
+
+**Link to work:** [Cookie Bot](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Cookie%20Bot)
+
