@@ -150,3 +150,6 @@ Amazon Price Tracker [https://github.com/masonk16/100_days_of_code_projects/tree
 
 ### R1D50
 Cookie Bot [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Cookie%20Bot]
+
+### R1D51 
+Automated Job Application [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Automated%20Job%20Applications]

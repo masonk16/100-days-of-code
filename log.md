@@ -400,3 +400,10 @@
 
 **Link to work:** [Cookie Bot](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Cookie%20Bot)
 
+### Day 51: January 15, 2023
+
+**Today's Progress:** Created Job Saving Bot for LinkedIn.
+
+**Thoughts:** Selenium can be quite powerful. Wonder what else I could automate.
+
+**Link to work:** [Automated Job Applications](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Automated%20Job%20Applications)
