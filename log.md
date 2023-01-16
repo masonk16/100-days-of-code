@@ -407,3 +407,11 @@
 **Thoughts:** Selenium can be quite powerful. Wonder what else I could automate.
 
 **Link to work:** [Automated Job Applications](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Automated%20Job%20Applications)
+
+### Day 52: January 16, 2023
+
+**Today's Progress:** Tried to automate Tinder using Selenium.
+
+**Thoughts:** Could not get past authentication as the buttons are nested in iframes.
+
+**Link to work:** [Tinder Swiping Bot](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Tinder%20Auto-swiping%20Bot)

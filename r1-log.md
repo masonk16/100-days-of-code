@@ -153,3 +153,6 @@ Cookie Bot [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%
 
 ### R1D51 
 Automated Job Application [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Automated%20Job%20Applications]
+
+### R1D52
+Tinder Swiping Bot [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Tinder%20Auto-swiping%20Bot]
