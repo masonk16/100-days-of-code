@@ -159,3 +159,6 @@ Tinder Swiping Bot [https://github.com/masonk16/100_days_of_code_projects/tree/m
 
 ### R1D53
 Tinder Swiping Bot [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Tinder%20Auto-swiping%20Bot]
+
+### R1D54
+Twitter Complaint Bot [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Twitter%20Complaint%20Bot]

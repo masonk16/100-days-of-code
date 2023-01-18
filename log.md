@@ -423,3 +423,11 @@
 **Thoughts:** Managed to get the Google Auth working using a different library, working on the like button now.
 
 **Link to work:** [Tinder Swiping Bot](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Tinder%20Auto-swiping%20Bot)
+
+### Day 54: January 18, 2023
+
+**Today's Progress:** Automated internet speed complaint bot for Twitter.
+
+**Thoughts:** A lot more straightforward than other projects using selenium.
+
+**Link to work:** [Twitter Complaint Bot](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Twitter%20Complaint%20Bot)
