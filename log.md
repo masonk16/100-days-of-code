@@ -431,3 +431,11 @@
 **Thoughts:** A lot more straightforward than other projects using selenium.
 
 **Link to work:** [Twitter Complaint Bot](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Twitter%20Complaint%20Bot)
+
+### Day 55: January 19, 2023
+
+**Today's Progress:** Automated Instagram follow bot.
+
+**Thoughts:** Dynamically generated CSS whooped my ass again.
+
+**Link to work:** [Instagram Follower Bot](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Instagram%20Follower%20Bot)
