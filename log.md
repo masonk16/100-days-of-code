@@ -439,3 +439,11 @@
 **Thoughts:** Dynamically generated CSS whooped my ass again.
 
 **Link to work:** [Instagram Follower Bot](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Instagram%20Follower%20Bot)
+
+### Day 56: January 20, 2023
+
+**Today's Progress:** Automated Data Entry using scraped data.
+
+**Thoughts:** Scraping with BeautifulSoup seems to be getting easier.
+
+**Link to work:** [Data Entry Automation](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Data%20Entry%20Automation)

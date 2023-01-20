@@ -165,3 +165,6 @@ Twitter Complaint Bot [https://github.com/masonk16/100_days_of_code_projects/tre
 
 ### R1D55
 Instagram Follower Bot [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Instagram%20Follower%20Bot]
+
+### R1D56
+Data Entry Automation [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Data%20Entry%20Automation]
