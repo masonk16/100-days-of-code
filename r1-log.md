@@ -168,3 +168,6 @@ Instagram Follower Bot [https://github.com/masonk16/100_days_of_code_projects/tr
 
 ### R1D56
 Data Entry Automation [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Data%20Entry%20Automation]
+
+### R1D57
+Hello Flask [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Hello%20Flask]

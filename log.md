@@ -447,3 +447,11 @@
 **Thoughts:** Scraping with BeautifulSoup seems to be getting easier.
 
 **Link to work:** [Data Entry Automation](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Data%20Entry%20Automation)
+
+### Day 57: January 21, 2023
+
+**Today's Progress:** Built a basic flask application and revised Python decorators.
+
+**Thoughts:** Finally grasped Python decorators and barebones Flask.
+
+**Link to work:** [Hello Flask](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Hello%20Flask)
