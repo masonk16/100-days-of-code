@@ -171,3 +171,6 @@ Data Entry Automation [https://github.com/masonk16/100_days_of_code_projects/tre
 
 ### R1D57
 Hello Flask [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Hello%20Flask]
+
+### R1D58
+Higher-Lower [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/higher-lower]

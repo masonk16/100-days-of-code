@@ -455,3 +455,12 @@
 **Thoughts:** Finally grasped Python decorators and barebones Flask.
 
 **Link to work:** [Hello Flask](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/Hello%20Flask)
+
+
+### Day 58: January 22, 2023
+
+**Today's Progress:** Built a basic higher-lower game with Flask and delved into advanced decorators.
+
+**Thoughts:** Very interesting to use converter types of routes and see how advanced decorators work.
+
+**Link to work:** [Higher-Lower](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/higher-lower)
