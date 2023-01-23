@@ -174,3 +174,7 @@ Hello Flask [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web
 
 ### R1D58
 Higher-Lower [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/higher-lower]
+
+### R1D59
+Business Card [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/business-card]
+My Personal Site [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/my-personal-site]

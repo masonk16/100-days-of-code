@@ -464,3 +464,12 @@
 **Thoughts:** Very interesting to use converter types of routes and see how advanced decorators work.
 
 **Link to work:** [Higher-Lower](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/higher-lower)
+
+### Day 59: January 23, 2023
+
+**Today's Progress:** Built the CV site using Flask and created a business card while learning template rendering with Flask.
+
+**Thoughts:** Business Card will definitely be deployed.
+
+**Link to work:** [Business Card](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/business-card)
+[My Personal Site](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/my-personal-site)
