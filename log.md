@@ -473,3 +473,11 @@
 
 **Link to work:** [Business Card](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/business-card)
 [My Personal Site](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/my-personal-site)
+
+### Day 60: January 24, 2023
+
+**Today's Progress:** Built a mock blog to learn about templating with Jinja.
+
+**Thoughts:** Might have to go through the Jinja documentation a bit more.
+
+**Link to work:** [Blog](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/blog)

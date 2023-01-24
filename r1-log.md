@@ -178,3 +178,6 @@ Higher-Lower [https://github.com/masonk16/100_days_of_code_projects/tree/main/We
 ### R1D59
 Business Card [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/business-card]
 My Personal Site [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/my-personal-site]
+
+### R1D60
+Blog [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/blog]
