@@ -481,3 +481,11 @@
 **Thoughts:** Might have to go through the Jinja documentation a bit more.
 
 **Link to work:** [Blog](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/blog)
+
+### Day 61: January 25, 2023
+
+**Today's Progress:** Mock tinder using Bootstrap.
+
+**Thoughts:** Version being taught is a bit outdated will have to find tutorial for newer versions.
+
+**Link to work:** [Tindog](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/TinDog)
