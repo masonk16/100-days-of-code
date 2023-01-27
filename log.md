@@ -489,3 +489,19 @@
 **Thoughts:** Version being taught is a bit outdated will have to find tutorial for newer versions.
 
 **Link to work:** [Tindog](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/TinDog)
+
+### Day 62: January 26, 2023
+
+**Today's Progress:** Mock tinder using Bootstrap.
+
+**Thoughts:** Version being taught is a bit outdated will have to find tutorial for newer versions.
+
+**Link to work:** [Tindog](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/TinDog)
+
+### Day 63: January 27, 2023
+
+**Today's Progress:** Mock tinder using Bootstrap.
+
+**Thoughts:** Working with Z-index and media queries was quite interesting.
+
+**Link to work:** [Tindog](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/TinDog)
