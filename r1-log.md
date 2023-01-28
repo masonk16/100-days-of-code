@@ -190,3 +190,6 @@ TinDog [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20De
 
 ### R1D63
 TinDog [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/TinDog]
+
+### R1D64 
+Blog [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/upgraded-blog]
