@@ -513,3 +513,11 @@
 **Thoughts:** Have a pretty good understanding of Flask and Jinja templating.
 
 **Link to work:** [Blog](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/upgraded-blog)
+
+### Day 65: January 29, 2023
+
+**Today's Progress:** Added functionality to the contact form on the blog.
+
+**Thoughts:** 
+
+**Link to work:** [Blog](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/upgraded-blog)
