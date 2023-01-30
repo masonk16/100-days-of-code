@@ -196,3 +196,6 @@ Blog [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Deve
 
 ### R1D65 
 Blog [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/upgraded-blog]
+
+### R1D66
+Flask Secrets [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/flask-secrets]

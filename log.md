@@ -521,3 +521,11 @@
 **Thoughts:** 
 
 **Link to work:** [Blog](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/upgraded-blog)
+
+### Day 66: January 30, 2023
+
+**Today's Progress:** Creating forms using WTForms and using Flask-Bootstrap.
+
+**Thoughts:** Creating and styling comes with so much ease
+
+**Link to work:** [Flask Secrets](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/flask-secrets)
