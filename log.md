@@ -529,3 +529,11 @@
 **Thoughts:** Creating and styling comes with so much ease
 
 **Link to work:** [Flask Secrets](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/flask-secrets)
+
+### Day 67: January 31, 2023
+
+**Today's Progress:** Working with quickforms and Flask-Bootstrap.
+
+**Thoughts:** Creating forms and styling comes with so much ease
+
+**Link to work:** [Coffee and Wifi](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/coffee-and-wifi)
