@@ -202,3 +202,6 @@ Flask Secrets [https://github.com/masonk16/100_days_of_code_projects/tree/main/W
 
 ### R1D67
 Coffee and Wifi [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/coffee-and-wifi]
+
+### R1D68
+Book Library [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/book-library]

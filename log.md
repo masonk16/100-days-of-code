@@ -537,3 +537,11 @@
 **Thoughts:** Creating forms and styling comes with so much ease
 
 **Link to work:** [Coffee and Wifi](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/coffee-and-wifi)
+
+### Day 68: February 01, 2023
+
+**Today's Progress:** SQLALchemy and SQLite.
+
+**Thoughts:** Writing queries is so much easier using SQLAlchemy
+
+**Link to work:** [Book Library](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/book-library)
