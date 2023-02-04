@@ -205,3 +205,9 @@ Coffee and Wifi [https://github.com/masonk16/100_days_of_code_projects/tree/main
 
 ### R1D68
 Book Library [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/book-library]
+
+### R1D69
+Top Movies [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/top-movies]
+
+### R1D70
+Cafe API [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/cafe-api]

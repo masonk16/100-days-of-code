@@ -545,3 +545,19 @@
 **Thoughts:** Writing queries is so much easier using SQLAlchemy
 
 **Link to work:** [Book Library](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/book-library)
+
+### Day 69: February 02, 2023
+
+**Today's Progress:** SQLALchemy and SQLite.
+
+**Thoughts:** Writing queries is so much easier using SQLAlchemy
+
+**Link to work:** [Top Movies](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/top-movies)
+
+### Day 70: February 04, 2023
+
+**Today's Progress:** RESTful APIs.
+
+**Thoughts:** The principles are quite basic and publishing documentation with Postman is quite easy.
+
+**Link to work:** [Cafe API](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/cafe-api)
