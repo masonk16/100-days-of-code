@@ -211,3 +211,6 @@ Top Movies [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%
 
 ### R1D70
 Cafe API [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/cafe-api]
+
+### R1D71
+RESTful Blog [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/restful-blog]

@@ -561,3 +561,11 @@
 **Thoughts:** The principles are quite basic and publishing documentation with Postman is quite easy.
 
 **Link to work:** [Cafe API](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/cafe-api)
+
+### Day 71: February 05, 2023
+
+**Today's Progress:** RESTful routing for blog page.
+
+**Thoughts:** The principles are quite basic and publishing documentation with Postman is quite easy.
+
+**Link to work:** [RESTful Blog](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/restful-blog)
