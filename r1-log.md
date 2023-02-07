@@ -217,3 +217,6 @@ RESTful Blog [https://github.com/masonk16/100_days_of_code_projects/tree/main/We
 
 ### R1D72
 Auth with Flask [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/auth-with-flask]
+
+### R1D73
+Blog with Users [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/blog-with-users]

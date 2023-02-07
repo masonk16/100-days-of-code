@@ -577,3 +577,11 @@
 **Thoughts:** Pretty straightforward, really interesting seeing how passwords are hashed..
 
 **Link to work:** [Auth with Flask](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/auth-with-flask)
+
+### Day 73: February 07, 2023
+
+**Today's Progress:** Added user authentication to blog.
+
+**Thoughts:** Really good to add user authentication to a live scenario.
+
+**Link to work:** [Blog with Users](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/blog-with-users)
