@@ -585,3 +585,44 @@
 **Thoughts:** Really good to add user authentication to a live scenario.
 
 **Link to work:** [Blog with Users](https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/blog-with-users)
+
+### Day 75: February 09, 2023
+
+**Today's Progress:** Data exploration with Pandas and Google Colaboratory (Jupyter Notebook alternative).
+
+**Thoughts:** Really exciting using the Notebook format.
+
+**Link to work:** [Day 75](https://github.com/masonk16/100_days_of_code_projects/blob/main/Data_Exploration/Day_75.ipynb)
+
+### Day 76: February 10, 2023
+
+**Today's Progress:** Data visualization using Matplotlib.
+
+**Thoughts:** Enjoyed visualizing data as opposed to just parsing it.
+
+**Link to work:** [Programming Languages](https://github.com/masonk16/100_days_of_code_projects/blob/main/Data_Exploration/Programming_Languages.ipynb)
+
+### Day 77: February 12, 2023
+
+**Today's Progress:** Wrote unittests for ProcurePro.
+
+**Thoughts:** Wasn't as difficult as I thought it would be.
+
+**Link to work:** [ProcurePro](https://github.com/masonk16/ProcurePro)
+
+### Day 78: February 13, 2023
+
+**Today's Progress:** Setting up CI builds for Procure, using poetry for dependency management.
+
+**Thoughts:** Excited to se what the DevOps pipeline is going to look like.
+
+**Link to work:** [ProcurePro](https://github.com/masonk16/ProcurePro)
+
+### Day 79: February 14, 2023
+
+**Today's Progress:** Data analysis and visualization with Pandas and Plotly.
+
+**Thoughts:** Exciting stuff comparing data using charts.
+
+**Link to work:** [Plotly Charts and Data Analysis](https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Google-Play-Store-Project)
+

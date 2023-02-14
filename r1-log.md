@@ -220,3 +220,19 @@ Auth with Flask [https://github.com/masonk16/100_days_of_code_projects/tree/main
 
 ### R1D73
 Blog with Users [https://github.com/masonk16/100_days_of_code_projects/tree/main/Web%20Development/blog-with-users]
+
+
+### R1D75
+Day 75 [https://github.com/masonk16/100_days_of_code_projects/blob/main/Data_Exploration/Day_75.ipynb]
+
+### R1D76
+Programming Languages [https://github.com/masonk16/100_days_of_code_projects/blob/main/Data_Exploration/Programming_Languages.ipynb]
+
+### R1D77
+ProcurePro [https://github.com/masonk16/ProcurePro]
+
+### R1D78
+ProcurePro [https://github.com/masonk16/ProcurePro]
+
+### R1D79
+Plotly Charts and Data Analysis [https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Google-Play-Store-Project]
