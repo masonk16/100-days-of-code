@@ -626,3 +626,10 @@
 
 **Link to work:** [Plotly Charts and Data Analysis](https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Google-Play-Store-Project)
 
+### Day 80: February 15, 2023
+
+**Today's Progress:** Computations with NumPy and N-Dimensional Arrays.
+
+**Thoughts:** A lot more bare bones than pandas making it quite powerful, image manipulation was quite interesting.
+
+**Link to work:** [Computations with NumPy](https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Computation-with-NumPy)
