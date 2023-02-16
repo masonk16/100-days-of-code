@@ -239,3 +239,6 @@ Plotly Charts and Data Analysis [https://github.com/masonk16/100_days_of_code_pr
 
 ### R1D80
 Computations with NumPy [https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Computation-with-NumPy]
+
+### R1D81 
+Seaborn Linear Regression [https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Seaborn-Linear-Regression]
