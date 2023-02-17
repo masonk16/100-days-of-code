@@ -641,3 +641,11 @@
 **Thoughts:** Quite astounding how many Data Science libraries Python has.
 
 **Link to work:** [Seaborn Linear Regression](https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Seaborn-Linear-Regression)
+
+### Day 82: February 17, 2023
+
+**Today's Progress:** Analysing the Nobel Prize with Plotly, Matplotlib and Seaborn.
+
+**Thoughts:** I think I've had my fair share of data science now, but I'll definitely come back to it for ProcurePro.
+
+**Link to work:** [Nobel Prize Analysis](https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Nobel-Prize-Analysis)
