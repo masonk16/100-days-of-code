@@ -649,3 +649,11 @@
 **Thoughts:** I think I've had my fair share of data science now, but I'll definitely come back to it for ProcurePro.
 
 **Link to work:** [Nobel Prize Analysis](https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Nobel-Prize-Analysis)
+
+### Day 83: February 23, 2023
+
+**Today's Progress:** Analysing the effects of handwashing of birth and death rates for women.
+
+**Thoughts:** Interesting to see how to do t-Tests with scipy.
+
+**Link to work:** [Dr Semmelweis Analysis](https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Dr-Semmelweis-Analysis)
