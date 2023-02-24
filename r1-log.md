@@ -248,3 +248,6 @@ Nobel Prize Analysis[https://github.com/masonk16/100_days_of_code_projects/tree/
 
 ### R1D83
 Dr Semmelweis Analysis [https://github.com/masonk16/100_days_of_code_projects/tree/main/Data_Exploration/Dr-Semmelweis-Analysis]
+
+### R1D84
+Text to Morse [https://github.com/masonk16/text-to-morse]
