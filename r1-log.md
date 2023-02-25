@@ -251,3 +251,6 @@ Dr Semmelweis Analysis [https://github.com/masonk16/100_days_of_code_projects/tr
 
 ### R1D84
 Text to Morse [https://github.com/masonk16/text-to-morse]
+
+### R1D85
+Work Planner [https://github.com/masonk16/workplanner]

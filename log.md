@@ -665,3 +665,11 @@
 **Thoughts:** Quite a simple one function solution.
 
 **Link to work:** [Text to Morse](https://github.com/masonk16/text-to-morse)
+
+### Day 85: February 25, 2023
+
+**Today's Progress:** Built a simple work planner as part of submission for a job application.
+
+**Thoughts:** Building with DRF is quite fast.
+
+**Link to work:** [Work Planner](https://github.com/masonk16/workplanner)
