@@ -254,3 +254,5 @@ Text to Morse [https://github.com/masonk16/text-to-morse]
 
 ### R1D85
 Work Planner [https://github.com/masonk16/workplanner]
+
+### R1D86

@@ -673,3 +673,11 @@
 **Thoughts:** Building with DRF is quite fast.
 
 **Link to work:** [Work Planner](https://github.com/masonk16/workplanner)
+
+### Day 86: February 26, 2023
+
+**Today's Progress:** Built a simple using OOP principles and tkinter.
+
+**Thoughts:** Really dope revising tkinter stuff.
+
+**Link to work:** [Tic Tac Toe](https://github.com/masonk16/tic-tac-toe)
