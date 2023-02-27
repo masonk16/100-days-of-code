@@ -256,3 +256,7 @@ Text to Morse [https://github.com/masonk16/text-to-morse]
 Work Planner [https://github.com/masonk16/workplanner]
 
 ### R1D86
+Tic Tac Toe [https://github.com/masonk16/tic-tac-toe]
+
+### R1D87 
+Work Planner [https://github.com/masonk16/workplanner]

@@ -681,3 +681,11 @@
 **Thoughts:** Really dope revising tkinter stuff.
 
 **Link to work:** [Tic Tac Toe](https://github.com/masonk16/tic-tac-toe)
+
+### Day 87: February 26, 2023
+
+**Today's Progress:** Wrote some tests for the  work planner.
+
+**Thoughts:** Really need to read up more on testing REST API's.
+
+**Link to work:** [Work Planner](https://github.com/masonk16/workplanner)
