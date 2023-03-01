@@ -689,3 +689,11 @@
 **Thoughts:** Really need to read up more on testing REST API's.
 
 **Link to work:** [Work Planner](https://github.com/masonk16/workplanner)
+
+### Day 88: February 28, 2023
+
+**Today's Progress:** Built a Typing Speed Test game with pygame.
+
+**Thoughts:** Quite interesting the similarities with tkinter.
+
+**Link to work:** [Typing Speed Test](https://github.com/masonk16/typing-speed-test)

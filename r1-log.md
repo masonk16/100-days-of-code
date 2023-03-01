@@ -260,3 +260,6 @@ Tic Tac Toe [https://github.com/masonk16/tic-tac-toe]
 
 ### R1D87 
 Work Planner [https://github.com/masonk16/workplanner]
+
+### R1D88
+Typing Speed Test [https://github.com/masonk16/typing-speed-test]
