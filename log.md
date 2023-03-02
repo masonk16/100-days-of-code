@@ -690,10 +690,18 @@
 
 **Link to work:** [Work Planner](https://github.com/masonk16/workplanner)
 
-### Day 88: February 28, 2023
+### Day 88: March 01, 2023
 
 **Today's Progress:** Built a Typing Speed Test game with pygame.
 
 **Thoughts:** Quite interesting the similarities with tkinter.
 
 **Link to work:** [Typing Speed Test](https://github.com/masonk16/typing-speed-test)
+
+### Day 88: March 02, 2023
+
+**Today's Progress:** Built Breakout game using turtle module.
+
+**Thoughts:** The diversity of Turtle is quite intriguing.
+
+**Link to work:** [Breakout Game](https://github.com/masonk16/breakout-game)

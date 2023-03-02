@@ -263,3 +263,6 @@ Work Planner [https://github.com/masonk16/workplanner]
 
 ### R1D88
 Typing Speed Test [https://github.com/masonk16/typing-speed-test]
+
+### R1D89
+Breakout Game [https://github.com/masonk16/breakout-game]
