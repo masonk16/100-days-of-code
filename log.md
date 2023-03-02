@@ -698,7 +698,7 @@
 
 **Link to work:** [Typing Speed Test](https://github.com/masonk16/typing-speed-test)
 
-### Day 88: March 02, 2023
+### Day 89: March 02, 2023
 
 **Today's Progress:** Built Breakout game using turtle module.
 
