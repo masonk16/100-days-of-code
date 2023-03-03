@@ -705,3 +705,11 @@
 **Thoughts:** The diversity of Turtle is quite intriguing.
 
 **Link to work:** [Breakout Game](https://github.com/masonk16/breakout-game)
+
+### Day 90: March 03, 2023
+
+**Today's Progress:** Built Todo List app with Flask.
+
+**Thoughts:** It kinda whooped my ass but I'll be back.
+
+**Link to work:** [Todo List](https://github.com/masonk16/flask-todo-app)
