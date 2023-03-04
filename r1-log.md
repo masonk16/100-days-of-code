@@ -269,3 +269,6 @@ Breakout Game [https://github.com/masonk16/breakout-game]
 
 ### R1D90
 Todo List app [https://github.com/masonk16/flask-todo-app]
+
+### R1D91
+Disappearing Text Desktop App [https://github.com/masonk16/disappearing-text]

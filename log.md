@@ -713,3 +713,11 @@
 **Thoughts:** It kinda whooped my ass but I'll be back.
 
 **Link to work:** [Todo List](https://github.com/masonk16/flask-todo-app)
+
+### Day 91: March 04, 2023
+
+**Today's Progress:** Disappearing text desktop app using tkinter, a replica of The Most Dangerous Writing App.
+
+**Thoughts:** Interesting concept but I probably need to work on my tkinter skills a bit more.
+
+**Link to work:** [Disappearing Text Desktop App](https://github.com/masonk16/disappearing-text)
