@@ -721,3 +721,11 @@
 **Thoughts:** Interesting concept but I probably need to work on my tkinter skills a bit more.
 
 **Link to work:** [Disappearing Text Desktop App](https://github.com/masonk16/disappearing-text)
+
+### Day 92: March 05, 2023
+
+**Today's Progress:** Created a text to speech script using the large text api on RapidAPI.
+
+**Thoughts:** Definitely would want to make it more dynamic and build an interface for it.
+
+**Link to work:** [Text-To-Speech](https://github.com/masonk16/text-to-speech)

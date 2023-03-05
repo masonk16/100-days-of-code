@@ -272,3 +272,6 @@ Todo List app [https://github.com/masonk16/flask-todo-app]
 
 ### R1D91
 Disappearing Text Desktop App [https://github.com/masonk16/disappearing-text]
+
+### R1D92 
+Text-To-Speech [https://github.com/masonk16/text-to-speech]
