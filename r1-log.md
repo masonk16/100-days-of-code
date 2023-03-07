@@ -275,3 +275,8 @@ Disappearing Text Desktop App [https://github.com/masonk16/disappearing-text]
 
 ### R1D92 
 Text-To-Speech [https://github.com/masonk16/text-to-speech]
+
+### R1D93
+
+### R1D94
+Image Colour Picker [https://github.com/masonk16/img-colour-picker]

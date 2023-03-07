@@ -729,3 +729,19 @@
 **Thoughts:** Definitely would want to make it more dynamic and build an interface for it.
 
 **Link to work:** [Text-To-Speech](https://github.com/masonk16/text-to-speech)
+
+### Day 93: March 06, 2023
+
+**Today's Progress:** Read up on REST API authentication and started e-Commerce project with Django.
+
+**Thoughts:** Keen to really build this e-Commerce app.
+
+**Link to work:** 
+
+### Day 94: March 07, 2023
+
+**Today's Progress:** Created Image Colour Picker.
+
+**Thoughts:** A bit of trouble diplaying the final palette but looks good so far..
+
+**Link to work:** [Image Colour Picker](https://github.com/masonk16/img-colour-picker)
