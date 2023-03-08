@@ -280,3 +280,6 @@ Text-To-Speech [https://github.com/masonk16/text-to-speech]
 
 ### R1D94
 Image Colour Picker [https://github.com/masonk16/img-colour-picker]
+
+### R1D95
+Web Scraping [https://github.com/masonk16/web-scraping]

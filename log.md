@@ -745,3 +745,11 @@
 **Thoughts:** A bit of trouble diplaying the final palette but looks good so far..
 
 **Link to work:** [Image Colour Picker](https://github.com/masonk16/img-colour-picker)
+
+### Day 95: March 08, 2023
+
+**Today's Progress:** Web Scraped Amazons Audiobooks and created a csv file from scraped data.
+
+**Thoughts:** Learnt some new techniques working with BeautifulSoup.
+
+**Link to work:** [Web Scraping](https://github.com/masonk16/web-scraping)
