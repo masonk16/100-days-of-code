@@ -753,3 +753,11 @@
 **Thoughts:** Learnt some new techniques working with BeautifulSoup.
 
 **Link to work:** [Web Scraping](https://github.com/masonk16/web-scraping)
+
+### Day 96: March 14, 2023
+
+**Today's Progress:** Historical Stock Market Data using flask.
+
+**Thoughts:** Integrating flaskwtf and bootstrap was pretty cool.
+
+**Link to work:** [Stock Market Data](https://github.com/masonk16/stock-market-data)

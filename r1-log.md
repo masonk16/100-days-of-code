@@ -283,3 +283,6 @@ Image Colour Picker [https://github.com/masonk16/img-colour-picker]
 
 ### R1D95
 Web Scraping [https://github.com/masonk16/web-scraping]
+
+### R1D96
+Stock Market Data [https://github.com/masonk16/stock-market-data]
