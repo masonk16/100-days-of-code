@@ -286,3 +286,6 @@ Web Scraping [https://github.com/masonk16/web-scraping]
 
 ### R1D96
 Stock Market Data [https://github.com/masonk16/stock-market-data]
+
+### R1D97
+Currency Exchange [https://github.com/masonk16/currency-exchange]

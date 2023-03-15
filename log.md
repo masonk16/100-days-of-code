@@ -761,3 +761,13 @@
 **Thoughts:** Integrating flaskwtf and bootstrap was pretty cool.
 
 **Link to work:** [Stock Market Data](https://github.com/masonk16/stock-market-data)
+
+### Day 97: March 15, 2023
+
+**Today's Progress:** Tackled a recent coding challenge for a job interview that I had previously had trouble with.
+
+**Thoughts:** Got a better understanding of type annotation, TDD and working with pytest.
+
+**Link to work:** [Currency Exchange](https://github.com/masonk16/currency-exchange)
+
+
