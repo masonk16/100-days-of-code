@@ -770,4 +770,12 @@
 
 **Link to work:** [Currency Exchange](https://github.com/masonk16/currency-exchange)
 
+### Day 98: March 16, 2023
+
+**Today's Progress:** Built a Blog using Django.
+
+**Thoughts:** Got a bit intimate with "vanilla" Django and object managers.
+
+**Link to work:** [Blog](https://github.com/masonk16/blog)
+
 

@@ -289,3 +289,6 @@ Stock Market Data [https://github.com/masonk16/stock-market-data]
 
 ### R1D97
 Currency Exchange [https://github.com/masonk16/currency-exchange]
+
+### R1D98
+Blog [https://github.com/masonk16/blog]
