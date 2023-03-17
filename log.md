@@ -770,7 +770,7 @@
 
 **Link to work:** [Currency Exchange](https://github.com/masonk16/currency-exchange)
 
-### Day 98: March 16, 2023
+### Day 99: March 17, 2023
 
 **Today's Progress:** Extended the blog by adding post tagging, email sharing and a comment section.
 
