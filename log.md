@@ -772,9 +772,9 @@
 
 ### Day 98: March 16, 2023
 
-**Today's Progress:** Built a Blog using Django.
+**Today's Progress:** Extended the blog by adding post tagging, email sharing and a comment section.
 
-**Thoughts:** Got a bit intimate with "vanilla" Django and object managers.
+**Thoughts:** Definitely more powerful than a Flask blog.
 
 **Link to work:** [Blog](https://github.com/masonk16/blog)
 
