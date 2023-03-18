@@ -770,6 +770,14 @@
 
 **Link to work:** [Currency Exchange](https://github.com/masonk16/currency-exchange)
 
+### Day 98: March 16, 2023
+
+**Today's Progress:** Built a Blog using Django.
+
+**Thoughts:** Got a bit intimate with "vanilla" Django and object managers.
+
+**Link to work:** [Blog](https://github.com/masonk16/blog)
+
 ### Day 99: March 17, 2023
 
 **Today's Progress:** Extended the blog by adding post tagging, email sharing and a comment section.
@@ -778,4 +786,10 @@
 
 **Link to work:** [Blog](https://github.com/masonk16/blog)
 
+### Day 100: March 18, 2023
 
+**Today's Progress:** Extended the blog by adding search functionality, dynamically generating RSS and adding a sitemap. Also created custom template tags and filters.
+
+**Thoughts:** Definitely want to add some of these features into ProcurePro.
+
+**Link to work:** [Blog](https://github.com/masonk16/blog)
