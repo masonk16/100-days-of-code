@@ -9,3 +9,7 @@ Basic setup and familiarisation with JavaScript
 
 ### R2D2
 Variables and Data types [https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/day-2]
+
+### R2D3
+
+Type checking and basic math operators. [https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/day-3]
