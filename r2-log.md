@@ -13,3 +13,7 @@ Variables and Data types [https://github.com/masonk16/100-day-of-code-projects-J
 ### R2D3
 
 Type checking and basic math operators. [https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/day-3]
+
+### R2D4
+
+Assignment. [https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/day-4]
