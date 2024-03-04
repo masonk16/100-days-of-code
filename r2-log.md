@@ -17,3 +17,7 @@ Type checking and basic math operators. [https://github.com/masonk16/100-day-of-
 ### R2D4
 
 Assignment. [https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/day-4]
+
+### R2D5
+
+Conditional Branching [https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/day-5]
