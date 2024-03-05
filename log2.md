@@ -40,3 +40,10 @@
 
 **Link to work**: [Day 5](https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/day-5)
 
+### Day 6: March 5, 2024
+
+**Today's Progress**: Logical Operator
+
+**Thoughts**: Nullish Coalescing needs a bit more work but everything seems straightforward for now.
+
+**Link to work**: [Day 6](https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/day-6)

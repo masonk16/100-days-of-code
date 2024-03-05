@@ -21,3 +21,7 @@ Assignment. [https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/d
 ### R2D5
 
 Conditional Branching [https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/day-5]
+
+### R2D6
+
+Logical Operators [https://github.com/masonk16/100-day-of-code-projects-JS/tree/main/day-6]
